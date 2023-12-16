@@ -64,8 +64,15 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+![CODE](https://github.com/raja-harini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149037372/73fa4b4f-d591-42dd-a7ce-ddce6cdedacc)
+![WAVE FORM](https://github.com/raja-harini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149037372/547467a4-de1d-435a-901d-545fb5722833)
+
 RTL realization
+![LOGIC DIAGRAM](https://github.com/raja-harini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149037372/48961a44-620e-4098-9918-53238d64bd44)
+
 Output:
+![TIMING DIAGRAM](https://github.com/raja-harini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149037372/ddc3c43f-9dda-47bf-a72c-2fe6a12a9eac)
+
 RTL
 
 Result:
